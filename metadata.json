@@ -1,0 +1,6 @@
+{
+  "name": "ReadScribe",
+  "description": "Qulay mutolaa (reading), eslatmalar va insholar yozish (writing), hamda matndan bitta bosishda so'zlarni lug'atga qo'shish va jumlalarni tarjima qilish ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
